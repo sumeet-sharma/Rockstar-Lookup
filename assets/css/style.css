@@ -2,6 +2,12 @@
     position: relative;
     left: 400px;
     top: -60px;
+    width: 400px;
+}
+
+#artist-buttons{
+    margin-left: 140px;
+    margin-bottom: 30px;
 }
 
 #artist-form{
@@ -13,6 +19,7 @@
 .jumbotron{
     color: red;
     background-color: black;
+    
 }
 
 body{
